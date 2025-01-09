@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [Beijing Institute of technology (BIT)](https://www.bit.edu.cn/) majoring in Automation, I am also an intern at the Beijing Academy of Artificial Intelligence (BAAI), where my research focuses on embodied intelligence. 
+I'm a third year undergraduate student from [Beijing Institute of technology (BIT)](https://www.bit.edu.cn/) majoring in Automation, I am also an intern at the [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/), where my research focuses on embodied intelligence. 
 
