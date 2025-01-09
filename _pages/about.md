@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [Beijing Institute of technology (BIT)] (https://www.bit.edu.cn/)
+I'm a third year undergraduate student from [Beijing Institute of technology (BIT)](https://www.bit.edu.cn/)
 
 A data-driven personal website
 ======
