@@ -22,13 +22,13 @@ repository               : "bochiman/bochiman.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Zichen Zhou(周子琛)"
+  pronouns         : "he/him"# example: "she/her"  
+  bio              : 
+  location         : "Beijing, China"
+  employer         : "Beijing Institute of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "1120223554@bit.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
